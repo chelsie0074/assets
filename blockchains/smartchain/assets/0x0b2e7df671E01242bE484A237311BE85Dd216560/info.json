@@ -1,0 +1,11 @@
+{
+ "name": "UDGT Token",
+ "website": "",
+ "description": "UDGT Token",
+ "explorer": "https://bscscan.com/token/0x0b2e7df671E01242bE484A237311BE85Dd216560",
+ "type": "BEP20",
+ "symbol": "UDGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b2e7df671E01242bE484A237311BE85Dd216560"
+}
